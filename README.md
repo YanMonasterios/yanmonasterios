@@ -1,11 +1,11 @@
 # Hola, soy Yan Monasterios 👋
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=front-end+developer+✅;Desarrollador+web&center=true&size=25">
+</h1>
+
 ## Sobre mí
 🚀 Desarrollador web apasionado por crear experiencias digitales increíbles.
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Yan+Monasterios;Desarrollador+web+apasionado;Especializado+en+Astro+y+React&center=true&size=25">
-</h1>
 
 ## Mis habilidades
 - **Frontend:** 🎨 HTML, CSS, JavaScript, Angular, Astro
