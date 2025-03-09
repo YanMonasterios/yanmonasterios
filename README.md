@@ -3,7 +3,9 @@
 ## Sobre mí
 🚀 Desarrollador web apasionado por crear experiencias digitales increíbles.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Yan+Monasterios;Desarrollador+web+apasionado;Especializado+en+Astro+y+React&color=000000&center=true&width=500&height=50)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Yan+Monasterios;Desarrollador+web+apasionado;Especializado+en+Astro+y+React&center=true&size=25">
+</h1>
 
 ## Mis habilidades
 - **Frontend:** 🎨 HTML, CSS, JavaScript, Angular, Astro
