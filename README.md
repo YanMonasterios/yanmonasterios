@@ -4,16 +4,15 @@
 🚀 Desarrollador web apasionado por crear experiencias digitales increíbles.
 
 ## Mis habilidades
-- **Frontend:** 🎨 HTML, CSS, JavaScript, React
-- **Backend:** ⚙️ Node.js, Express
-- **Herramientas:** 🛠️ Git, GitHub, VS Code
+- **Frontend:** 🎨 HTML, CSS, JavaScript, Angular, Astro
+- **Backend:** ⚙️ Node.js, Python
+- **Herramientas:** 🛠️ Git, GitHub, VS Code, Postman
 
 ## Proyectos destacados
-- [Proyecto 1](https://github.com/yanmonasterios/proyecto1) - Descripción breve.
-- [Proyecto 2](https://github.com/yanmonasterios/proyecto2) - Descripción breve.
+- [Proyecto 1](https://github.com/yanmonasterios/dashboard_atriux) - Desarrollo de CRM.
 
 ## Contáctame
-- 📧 Email: yan@example.com
+- 📧 Email: yankevyn02@gmail.com
 - 💼 LinkedIn: [Yan Monasterios](https://www.linkedin.com/in/yan-monasterios-a1231a258/)
 - 🐙 GitHub: [yanmonasterios](https://github.com/yanmonasterios)
 
